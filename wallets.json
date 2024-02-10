@@ -1,0 +1,14 @@
+[
+  {
+    "publicKey": "HOT_WALLET_PUBLIC_KEY_1, example: asepkh.near",
+    "privateKey": "PRIVATE_KEY_1"
+  },
+  {
+    "publicKey": "HOT_WALLET_PUBLIC_KEY_2, example: asepkh.near",
+    "privateKey": "PRIVATE_KEY_2"
+  },
+  {
+    "publicKey": "ANOTHER_MULTIPLE_FOLLOW_THIS_PATTERN",
+    "privateKey": "..."
+  }
+]
